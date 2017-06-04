@@ -1,0 +1,33 @@
+# Knapsack Approximation Suite
+
+## Requirements
+
++ Python3
+
+## Contents
+
+### Scripts
+
+  + test.py: script for testing algorithms against a generator
+  + validate.py: script for validating an exact solver's correctness against problems with known solutions
+  + analyze: contains scripts for extracting data from test runs
+
+### Data
+
+  + data: previous outputs from tests and analysis used in paper
+    + n_sweep: sweeping problem size
+    + mean_sweep: sweeping mean item size
+    + dev_sweep: sweeping item size standard deviation
+  + validation: set of 11 benchmark problems for demonstrating correctness of a solver
+
+### Backend
+
+  + problem.py: class file representing instance of knapsack problem
+  + solver: module containing knapsack problem solvers
+    + dynamic.py: contains exact solver
+    + greedy.py: contains greedy approximation
+  + generator: module containing knapsack problem generators
+    + core.py: common functionality for generators
+    + uniform.py: generator utilizing uniform distribution
+    + gaussian.py: generator utilizing normal distribution
+    + split.py: (experimental) generator for producing n items with a fixed net size

@@ -1,0 +1,371 @@
+Set Cover
+1018461
+303555
+227657
+102981
+391412
+88926
+54595
+65184
+72489
+80578
+
+Brute Force:
+32274716
+23421769
+20997609
+17675494
+16470848
+16320227
+16016404
+15545977
+15757320
+19413981
+
+Universe Size: 100
+Set Size: 10
+
+Average Greedy Run Time: 240583
+Average Brute Force Run Time: 19389434
+
+
+Set Cover
+3061033
+221071
+361855
+301686
+230587
+371385
+271184
+87385
+79570
+96329
+
+Brute Force:
+33719106686
+32129960852
+34378009621
+39443348035
+38343881285
+36270995751
+40888983491
+34168611106
+34299267098
+38107630576
+
+Universe Size: 200
+Set Size: 20
+
+Average Greedy Run Time: 508208
+Average Brute Force Run Time: 36174979450
+
+
+Set Cover
+2839000
+1943983
+916438
+539999
+584860
+640213
+630437
+489854
+553847
+861048
+
+Universe Size: 300
+Set Size: 30
+
+Average Greedy Run Time: 999967
+
+
+Set Cover
+1282557
+1053899
+1405411
+1218586
+1158745
+1369250
+2614119
+428605
+469894
+567374
+
+Universe Size: 400
+Set Size: 40
+
+Average Greedy Run Time: 1156844
+
+
+Set Cover
+912762
+592649
+878257
+685157
+602849
+648782
+603073
+636051
+936473
+857249
+
+Universe Size: 500
+Set Size: 50
+
+Average Greedy Run Time: 735330
+
+
+Set Cover
+1474266
+889510
+903347
+1120810
+929460
+876199
+953971
+1337801
+1339025
+918529
+
+Universe Size: 600
+Set Size: 60
+
+Average Greedy Run Time: 1074291
+
+
+Set Cover
+1503504
+1824355
+1305286
+1236208
+1266078
+1249815
+1227555
+5366387
+1330508
+1096773
+
+Universe Size: 700
+Set Size: 70
+
+Average Greedy Run Time: 1740646
+
+
+Set Cover
+1390217
+1217429
+1249531
+1247270
+1327903
+1219544
+1221850
+1312232
+1163132
+1090540
+
+Universe Size: 800
+Set Size: 80
+
+Average Greedy Run Time: 1243964
+
+
+Set Cover
+1638220
+1783236
+1756008
+1516876
+2031523
+1437969
+1395206
+1602467
+1484325
+1572692
+
+Universe Size: 900
+Set Size: 90
+
+Average Greedy Run Time: 1621852
+
+
+Set Cover
+2358955
+1904428
+2927334
+2116234
+2187425
+2026431
+1947784
+1847884
+2515427
+1831236
+
+Universe Size: 1000
+Set Size: 100
+
+Average Greedy Run Time: 2166313
+
+
+Set Cover
+93177935
+91364258
+547543595
+181392704
+175783667
+140163388
+127785873
+114314669
+483572990
+154146051
+
+Universe Size: 10000
+Set Size: 500
+
+Average Greedy Run Time: 210924513
+
+Maximum Coverage
+558221
+377883
+208774
+123794
+232917
+128060
+92032
+84972
+78617
+40883
+
+Brute Force:
+1656044
+34319525
+23174237
+366768
+20356476
+17242156
+16372150
+24337552
+13357613
+168423
+
+Universe Size: 100
+Set Size: 10
+
+Average Greedy Run Time: 192615
+Average Brute Force Run Time: 15135094
+
+
+Maximum Coverage
+1101332
+212847
+224841
+273346
+183552
+217828
+252047
+316729
+192145
+415898
+
+Brute Force:
+29113368570
+21082849
+1673625570
+28306810147
+87471892
+556074
+885282
+30965259634
+15415493797
+31374367533
+
+Universe Size: 200
+Set Size: 20
+
+Average Greedy Run Time: 339056
+Average Brute Force Run Time: 13695892134
+
+
+Maximum Coverage
+
+Universe Size: 100
+Set Size: 10
+
+Average Greedy Run Time: 348919
+
+
+Maximum Coverage
+
+Universe Size: 200
+Set Size: 20
+
+Average Greedy Run Time: 542917
+
+
+Maximum Coverage
+
+Universe Size: 200
+Set Size: 20
+
+Average Greedy Run Time: 364946
+
+
+Maximum Coverage
+
+Universe Size: 300
+Set Size: 30
+
+Average Greedy Run Time: 295459
+
+
+Maximum Coverage
+
+Universe Size: 400
+Set Size: 40
+
+Average Greedy Run Time: 453018
+
+
+Maximum Coverage
+
+Universe Size: 500
+Set Size: 50
+
+Average Greedy Run Time: 723458
+
+
+Maximum Coverage
+
+Universe Size: 600
+Set Size: 60
+
+Average Greedy Run Time: 1086876
+
+
+Maximum Coverage
+
+Universe Size: 700
+Set Size: 70
+
+Average Greedy Run Time: 1542871
+
+
+Maximum Coverage
+
+Universe Size: 800
+Set Size: 80
+
+Average Greedy Run Time: 1267375
+
+
+Maximum Coverage
+
+Universe Size: 1000
+Set Size: 100
+
+Average Greedy Run Time: 2496535
+
+
+Maximum Coverage
+
+Universe Size: 10000
+Set Size: 1000
+
+Average Greedy Run Time: 329729477

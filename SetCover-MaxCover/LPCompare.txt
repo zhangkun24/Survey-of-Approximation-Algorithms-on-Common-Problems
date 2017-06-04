@@ -1,0 +1,190 @@
+Set Cover
+983276
+584250
+457266
+428642
+427212
+282217
+210554
+319162
+145423
+162669
+
+Universe Size: 100
+Set Size: 20
+
+Average Greedy Run Time: 400067
+Average Greedy Solution: 2
+
+
+Set Cover
+1809794
+632818
+617622
+646769
+630565
+562460
+435120
+432441
+687573
+522044
+
+Universe Size: 200
+Set Size: 40
+
+Average Greedy Run Time: 697720
+Average Greedy Solution: 2
+
+
+Set Cover
+4427294
+3464955
+1274952
+1198742
+1969220
+1242168
+1226070
+1344574
+1420929
+1189804
+
+Universe Size: 500
+Set Size: 100
+
+Average Greedy Run Time: 1875870
+Average Greedy Solution: 2
+
+
+Set Cover
+6134550
+6639748
+6551624
+4063530
+4212029
+5779658
+5319851
+5248120
+4987579
+4867684
+
+Universe Size: 1000
+Set Size: 200
+
+Average Greedy Run Time: 5380437
+Average Greedy Solution: 2
+
+
+Set Cover
+19154638
+14944278
+34163014
+20979135
+23063652
+43935702
+19665517
+19302941
+38223551
+21205573
+
+Universe Size: 2000
+Set Size: 400
+
+Average Greedy Run Time: 25463800
+Average Greedy Solution: 2
+
+
+Maximum Coverage
+840421
+391197
+672145
+475095
+502246
+356086
+217335
+172956
+163864
+334733
+
+Universe Size: 100
+Set Size: 20
+K = 3
+
+Average Greedy Run Time: 412607
+Average Greedy Solution: 2
+
+
+Maximum Coverage
+1783335
+860234
+659706
+1076040
+433721
+453216
+402278
+454314
+431341
+481816
+
+Universe Size: 200
+Set Size: 40
+K = 3
+
+Average Greedy Run Time: 703600
+Average Greedy Solution: 2
+
+
+Maximum Coverage
+4469327
+2859649
+1296308
+1695206
+1364588
+1325231
+1154011
+1244056
+1369446
+1159321
+
+Universe Size: 500
+Set Size: 100
+K = 3
+
+Average Greedy Run Time: 1793714
+Average Greedy Solution: 2
+
+
+Maximum Coverage
+7440332
+5788654
+5300992
+3618524
+4375743
+4955541
+6234636
+5698318
+4770445
+4673126
+
+Universe Size: 1000
+Set Size: 200
+K = 3
+
+Average Greedy Run Time: 5285631
+Average Greedy Solution: 2
+
+
+Maximum Coverage
+19932284
+16408945
+31271442
+19601878
+25434154
+37594287
+22830646
+18625160
+34955769
+19129491
+
+Universe Size: 2000
+Set Size: 400
+K = 3
